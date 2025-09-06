@@ -2,7 +2,7 @@
   "orders": [
     {
       "orderNumber": "987654322",
-      "email": "kgartner.gmail.com",
+      "email": "kgartner.zdskœgmail.com",
       "customer": {
         "firstName": "Karla",
         "lastName": "Gartner",
@@ -57,32 +57,32 @@
     },
     {
       "orderNumber": "987654321",
-      "email": "indy@adventures-r-us.com",
+      "email": "kgartner.zdskœgmail.com",
       "customer": {
-        "firstName": "Indiana",
-        "lastName": "Jones",
-        "phone": "+44 20 1234 5678"
+        "firstName": "Karla",
+        "lastName": "Gartner",
+        "phone": "+52 33 1234 5678"
       },
       "billingAddress": {
-        "street": "42 High Street",
-        "city": "London",
-        "postalCode": "W1A 1AA",
-        "country": "United Kingdom"
+        "street": "Av. Paseo Solares 4510",
+        "city": "Zapopan",
+        "postalCode": "45019",
+        "country": "Mexico"
       },
       "shippingAddress": {
-        "street": "1 Ashmeade Close",
-        "city": "York",
-        "postalCode": "YO2 2YB",
-        "country": "United Kingdom"
+        "street": "Eca Do Queiros 1040",
+        "city": "Zapopan",
+        "postalCode": "45110",
+        "country": "Mexico"
       },
       "orderDate": "2025-07-15T11:30:00-05:00",
       "items": [
         {
-          "product": "Mesa decorativa",
+          "product": "Paquete Estrella",
           "quantity": 1,
-          "unitPrice": 25000,
-          "subtotal": 25000,
-          "image": "https://bymarmolmx.com/cdn/shop/products/B7_large.jpg?v=1658111647"
+          "unitPrice": 1900,
+          "subtotal": 1900,
+          "image": "https://afiliacionesterramar.com/wp-content/uploads/2023/05/Kit-profesional-768x1001.jpeg"
         }
       ],
       "shippingMethod": "Entrega Estándar",
